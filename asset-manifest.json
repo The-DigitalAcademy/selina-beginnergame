@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/selina-beginnergame/static/css/main.be6eabe1.css",
+    "main.css": "/selina-beginnergame/static/css/main.85c737a1.css",
     "main.js": "/selina-beginnergame/static/js/main.60ee7909.js",
     "static/js/787.5e7ae408.chunk.js": "/selina-beginnergame/static/js/787.5e7ae408.chunk.js",
     "static/media/gun.jpg": "/selina-beginnergame/static/media/gun.73685e45b73f4593dd30.jpg",
@@ -17,12 +17,12 @@
     "static/media/movies.jpg": "/selina-beginnergame/static/media/movies.c247ceb8e9f9c11fc6fe.jpg",
     "static/media/bus.jpg": "/selina-beginnergame/static/media/bus.7a5a4fb975b4267c3552.jpg",
     "index.html": "/selina-beginnergame/index.html",
-    "main.be6eabe1.css.map": "/selina-beginnergame/static/css/main.be6eabe1.css.map",
+    "main.85c737a1.css.map": "/selina-beginnergame/static/css/main.85c737a1.css.map",
     "main.60ee7909.js.map": "/selina-beginnergame/static/js/main.60ee7909.js.map",
     "787.5e7ae408.chunk.js.map": "/selina-beginnergame/static/js/787.5e7ae408.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6eabe1.css",
+    "static/css/main.85c737a1.css",
     "static/js/main.60ee7909.js"
   ]
 }
